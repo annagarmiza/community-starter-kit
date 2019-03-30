@@ -1,3 +1,4 @@
+
 # welcome bot: A Probot App
 
 Mona is part of a growing team of developers. To help onboard new teammates, Mona has created a slick Probot app called Welcome.
@@ -5,6 +6,7 @@ Mona is part of a growing team of developers. To help onboard new teammates, Mon
 ## What it does
 
 Welcome automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
+
 
 ## Getting started
 
@@ -53,3 +55,4 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+
